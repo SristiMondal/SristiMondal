@@ -278,6 +278,6 @@
 </br>
 #### Github's Activity Graph
 
-| ![Sristi's github stats](https://github-readme-stats.vercel.app/api?username=sristimondal97&show_icons=true&theme=buefy) | ![Sristi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sristimondal97&theme=buefy)
+| ![Sristi's github stats](https://github-readme-stats.vercel.app/api?username=sristimondal&show_icons=true&theme=buefy) | ![Sristi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sristimondal&theme=buefy)
 | --- | --- |
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sristimondal97&theme=buefy)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sristimondal&theme=buefy)
