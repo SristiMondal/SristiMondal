@@ -17,7 +17,7 @@
 
 
 - :computer: I’m currently learning **Backend Development**
-- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React, Node, Web App Development**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React, Node, Web App Development, MySQL**
 - ⚡ Fun fact **`T-shaped Developer`**    
   </br>
 <p align="left">
